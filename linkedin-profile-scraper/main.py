@@ -64,3 +64,5 @@ async def get_profile(linkedin_url: str) -> str:
 
 if __name__ == "__main__":
     mcp.run(transport="stdio")
+
+    
